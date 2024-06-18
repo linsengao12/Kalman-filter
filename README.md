@@ -1,2 +1,2 @@
-# Kalman-filter-and-its-applications
-Serveral simple demos based on Kalman filter.
+# Kalman-filter
+Serveral simple demos of Kalman filter.
